@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://alexpoukrnet.github.io/todo",
+  "homepage": "https://alexpoukrnet.github.io/todo/",
 
   "scripts": {
     "start": "react-scripts start",
