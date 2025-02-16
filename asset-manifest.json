@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexPoUkrNet/todo.git/static/css/main.2e4b7554.css",
+    "main.js": "/AlexPoUkrNet/todo.git/static/js/main.e989d5fd.js",
+    "index.html": "/AlexPoUkrNet/todo.git/index.html",
+    "main.2e4b7554.css.map": "/AlexPoUkrNet/todo.git/static/css/main.2e4b7554.css.map",
+    "main.e989d5fd.js.map": "/AlexPoUkrNet/todo.git/static/js/main.e989d5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4b7554.css",
+    "static/js/main.e989d5fd.js"
+  ]
+}
