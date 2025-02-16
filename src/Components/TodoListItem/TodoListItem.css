@@ -1,0 +1,39 @@
+.todo-list-item {
+    display: flex;
+    height: 19px;
+    justify-content: space-between;
+    border: solid 1px steelblue;
+    border-radius: 5px;
+    padding: 3px;
+    margin-top: 3px;
+}
+
+.todo-list-item button {
+    width: 70px;
+    margin-left: 3px;
+    border: solid 1px black;
+    border-radius: 3px;
+}
+
+.todo-list-item button:hover {
+    border: solid 1px red;
+}
+
+.imp {
+    background-color: white;
+    color: green;
+}
+
+.delete {
+    background-color: white;
+    color: tomato;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.important {
+    font-weight: bold;
+
+}

@@ -1,0 +1,23 @@
+.filter button {
+    width: 46px;
+    margin-top: 3px;
+    margin-right: 3px;
+    border: solid 1px black;
+    border-radius: 3px;
+
+}
+
+.active {
+    background-color: green;
+    color: white;
+}
+
+
+.inactive {
+    background-color: white;
+    color: green;
+}
+
+.filter button:hover {
+    border: solid 1px tomato;
+}

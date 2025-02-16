@@ -1,0 +1,33 @@
+.item-add-form button {
+    width: 150px;
+    height: 20px;
+    margin-top: 3px;
+    margin-right: 3px;
+    border: solid 1px black;
+    border-radius: 3px;
+    background-color: green;
+    color: white;
+}
+
+.item-add-form button:hover {
+    border: solid 1px tomato;
+}
+
+.item-add-form button  {
+    margin-left: 30px;
+    width: 142px;
+}
+
+.item-add-form input {
+    height: 13px;
+    margin-left: 3px;
+}
+
+.item-add-form-wrapper {
+    display: flex;
+    height: 25px;
+    justify-content: space-between;
+    margin-top: 10px;
+    border: solid 1px black;
+    border-radius: 3px;
+}

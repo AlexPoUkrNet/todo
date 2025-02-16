@@ -1,0 +1,7 @@
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    font-family: "type m";
+    font-size: 8px;
+    color: green;
+}
